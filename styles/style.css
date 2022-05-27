@@ -126,9 +126,15 @@ nav.scrolled {
     inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
 }
 
-
-
-
+#navbarNav{
+  width:100%;
+}
+.float-end{
+  width: 100%;
+  text-align: right;
+  display: inline-block;
+  
+}
 
 #maqolalar{
   width: 100%;
@@ -308,6 +314,9 @@ footer .col i:hover{
 @media screen and (max-width:576px){
 header{
   overflow: auto;
+}
+.user{
+  display: none;
 }
 .img-text{
   display: none;
