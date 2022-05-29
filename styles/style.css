@@ -171,6 +171,7 @@ nav.scrolled {
   padding-bottom: 20px;
 }
 
+/* start card styles to 334-line */
 
 .service-block-two {
   position: relative;
@@ -331,6 +332,7 @@ nav.scrolled {
   color: #ffffff;
 }
 
+/* footer style */
 footer {
   width: 100%;
   min-height: max-content;
